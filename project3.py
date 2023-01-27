@@ -1,13 +1,3 @@
-########
-#import modules
-####### 
-#the name of this game is the lost REVOLING ICE CREAM CONE
-#you are in a very creepy house named the Hartman's manor looking the one and only ice cream cone 
-#summary you are in the Hartman's manor loooking for his one and only revoling ice cream cone and you only have five moves to fint the room it is in there are 7 rooms in total 
-# the only global varable is check_moves and it just tells you how many moves you have left
-########
-#define functions
-#######
 import sys
 
 
