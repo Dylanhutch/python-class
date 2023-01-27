@@ -1,0 +1,7 @@
+q = input("Hello what is your name? ")
+print("Hello " + q)
+print("I will do your 1st grade math homework")
+x = int(input("your first number you want to add: "))
+y = int(input("your second number you want to add: "))
+print(str(x + y))
+print("Dont tell your teacher you cheated")
