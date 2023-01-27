@@ -8,6 +8,9 @@
 ########
 #define functions
 #######
+import sys
+
+
 move = 6
 
 def check_moves():
